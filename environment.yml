@@ -1,0 +1,11 @@
+name: mi4afa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - transformer_lens
+      - datasets
+      - matplotlib
+      - cursor-sdk

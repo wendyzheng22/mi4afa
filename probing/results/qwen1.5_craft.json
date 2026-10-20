@@ -1,0 +1,326 @@
+[
+    {
+        "layer": 0,
+        "comp": "attn",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 0,
+        "comp": "mlp",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 1,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 1,
+        "comp": "mlp",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 2,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 2,
+        "comp": "mlp",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 3,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142
+    },
+    {
+        "layer": 3,
+        "comp": "mlp",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 4,
+        "comp": "attn",
+        "agent_acc": 0.5,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 4,
+        "comp": "mlp",
+        "agent_acc": 0.5,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 5,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 5,
+        "comp": "mlp",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 6,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.21428571428571427
+    },
+    {
+        "layer": 6,
+        "comp": "mlp",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.07142857142857142
+    },
+    {
+        "layer": 7,
+        "comp": "attn",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 7,
+        "comp": "mlp",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 8,
+        "comp": "attn",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 8,
+        "comp": "mlp",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 9,
+        "comp": "attn",
+        "agent_acc": 0.5,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 9,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 10,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 10,
+        "comp": "mlp",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 11,
+        "comp": "attn",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 11,
+        "comp": "mlp",
+        "agent_acc": 0.5,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 12,
+        "comp": "attn",
+        "agent_acc": 0.7142857142857143,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 12,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 13,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 13,
+        "comp": "mlp",
+        "agent_acc": 0.7142857142857143,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 14,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 14,
+        "comp": "mlp",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 15,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.21428571428571427
+    },
+    {
+        "layer": 15,
+        "comp": "mlp",
+        "agent_acc": 0.75,
+        "step_acc": 0.25
+    },
+    {
+        "layer": 16,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.21428571428571427
+    },
+    {
+        "layer": 16,
+        "comp": "mlp",
+        "agent_acc": 0.75,
+        "step_acc": 0.25
+    },
+    {
+        "layer": 17,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 17,
+        "comp": "mlp",
+        "agent_acc": 0.7142857142857143,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 18,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 18,
+        "comp": "mlp",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 19,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 19,
+        "comp": "mlp",
+        "agent_acc": 0.5,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 20,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 20,
+        "comp": "mlp",
+        "agent_acc": 0.5,
+        "step_acc": 0.07142857142857142
+    },
+    {
+        "layer": 21,
+        "comp": "attn",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 21,
+        "comp": "mlp",
+        "agent_acc": 0.5,
+        "step_acc": 0.10714285714285714
+    },
+    {
+        "layer": 22,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 22,
+        "comp": "mlp",
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 23,
+        "comp": "attn",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 23,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 24,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 24,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 25,
+        "comp": "attn",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.17857142857142858
+    },
+    {
+        "layer": 25,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 26,
+        "comp": "attn",
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.14285714285714285
+    },
+    {
+        "layer": 26,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.17857142857142858
+    }
+]

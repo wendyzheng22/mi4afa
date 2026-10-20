@@ -1,0 +1,100 @@
+{
+    "gemma1_algo": {
+        "layer": 8,
+        "comp": "attn",
+        "agent_acc": 0.6349206349206349,
+        "step_acc": 0.42857142857142855,
+        "total_time": 76.86537861824036
+    },
+    "gemma1_craft": {
+        "layer": 22,
+        "comp": "attn",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.17857142857142858,
+        "total_time": 151.9665596485138
+    },
+    "gemma4_algo": {
+        "layer": 22,
+        "comp": "attn",
+        "agent_acc": 0.6190476190476191,
+        "step_acc": 0.4444444444444444,
+        "total_time": 131.95357966423035
+    },
+    "gemma4_craft": {
+        "layer": 29,
+        "comp": "mlp",
+        "agent_acc": 0.75,
+        "step_acc": 0.21428571428571427,
+        "total_time": 331.00794076919556
+    },
+    "llama1_algo": {
+        "layer": 14,
+        "comp": "mlp",
+        "agent_acc": 0.5396825396825397,
+        "step_acc": 0.36507936507936506,
+        "total_time": 39.61329531669617
+    },
+    "llama1_craft": {
+        "layer": 14,
+        "comp": "mlp",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.21428571428571427,
+        "total_time": 75.68354630470276
+    },
+    "llama3_algo": {
+        "layer": 8,
+        "comp": "mlp",
+        "agent_acc": 0.6031746031746031,
+        "step_acc": 0.4603174603174603,
+        "total_time": 82.92620754241943
+    },
+    "llama3_craft": {
+        "layer": 20,
+        "comp": "mlp",
+        "agent_acc": 0.75,
+        "step_acc": 0.2857142857142857,
+        "total_time": 161.140132188797
+    },
+    "qwen0.5_algo": {
+        "layer": 9,
+        "comp": "attn",
+        "agent_acc": 0.5396825396825397,
+        "step_acc": 0.36507936507936506,
+        "total_time": 44.53412342071533
+    },
+    "qwen0.5_craft": {
+        "layer": 12,
+        "comp": "mlp",
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.25,
+        "total_time": 61.490201473236084
+    },
+    "qwen1.5_algo": {
+        "layer": 12,
+        "comp": "attn",
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.4444444444444444,
+        "total_time": 64.86613488197327
+    },
+    "qwen1.5_craft": {
+        "layer": 16,
+        "comp": "mlp",
+        "agent_acc": 0.75,
+        "step_acc": 0.25,
+        "total_time": 93.0955331325531
+    },
+    "qwen7_algo": {
+        "layer": 20,
+        "comp": "attn",
+        "agent_acc": 0.6190476190476191,
+        "step_acc": 0.47619047619047616,
+        "total_time": 114.59078073501587
+    },
+    "qwen7_craft": {
+        "layer": 2,
+        "comp": "mlp",
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.2857142857142857,
+        "total_time": 204.66682624816895
+    }
+}

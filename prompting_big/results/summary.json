@@ -1,0 +1,152 @@
+{
+    "claude-opus-4-8_algo_sequential": {
+        "agent_acc": 0.6666666666666666,
+        "step_acc": 0.3968253968253968,
+        "time": 691.6218726634979
+    },
+    "claude-opus-4-8_algo_vanilla": {
+        "agent_acc": 0.2698412698412698,
+        "step_acc": 0.1111111111111111,
+        "time": 626.010586977005
+    },
+    "claude-opus-4-8_algo_with_step": {
+        "agent_acc": 0.6190476190476191,
+        "step_acc": 0.4603174603174603,
+        "time": 437.9730923175812
+    },
+    "claude-opus-4-8_craft_sequential": {
+        "agent_acc": 0.7142857142857143,
+        "step_acc": 0.42857142857142855,
+        "time": 417.71261835098267
+    },
+    "claude-opus-4-8_craft_vanilla": {
+        "agent_acc": 0.32142857142857145,
+        "step_acc": 0.07142857142857142,
+        "time": 643.3352785110474
+    },
+    "claude-opus-4-8_craft_with_step": {
+        "agent_acc": 0.7857142857142857,
+        "step_acc": 0.39285714285714285,
+        "time": 311.5064866542816
+    },
+    "claude-opus-5_algo_sequential": {
+        "agent_acc": 0.6666666666666666,
+        "step_acc": 0.42857142857142855,
+        "time": 675.1715455055237
+    },
+    "claude-opus-5_algo_vanilla": {
+        "agent_acc": 0.20634920634920634,
+        "step_acc": 0.14285714285714285,
+        "time": 609.5204107761383
+    },
+    "claude-opus-5_algo_with_step": {
+        "agent_acc": 0.6666666666666666,
+        "step_acc": 0.5079365079365079,
+        "time": 380.98682022094727
+    },
+    "claude-opus-5_craft_sequential": {
+        "agent_acc": 0.75,
+        "step_acc": 0.42857142857142855,
+        "time": 440.95066237449646
+    },
+    "claude-opus-5_craft_vanilla": {
+        "agent_acc": 0.35714285714285715,
+        "step_acc": 0.07142857142857142,
+        "time": 409.60489320755005
+    },
+    "claude-opus-5_craft_with_step": {
+        "agent_acc": 0.8214285714285714,
+        "step_acc": 0.35714285714285715,
+        "time": 258.9611003398895
+    },
+    "claude-sonnet-5_algo_sequential": {
+        "agent_acc": 0.6984126984126984,
+        "step_acc": 0.4444444444444444,
+        "time": 596.5859022140503
+    },
+    "claude-sonnet-5_algo_vanilla": {
+        "agent_acc": 0.3333333333333333,
+        "step_acc": 0.1746031746031746,
+        "time": 570.9649908542633
+    },
+    "claude-sonnet-5_algo_with_step": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.42857142857142855,
+        "time": 304.9443259239197
+    },
+    "claude-sonnet-5_craft_sequential": {
+        "agent_acc": 0.5357142857142857,
+        "step_acc": 0.35714285714285715,
+        "time": 334.0757701396942
+    },
+    "claude-sonnet-5_craft_vanilla": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.03571428571428571,
+        "time": 591.8173415660858
+    },
+    "claude-sonnet-5_craft_with_step": {
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.2857142857142857,
+        "time": 139.38407635688782
+    },
+    "gpt-5.6-sol_algo_sequential": {
+        "agent_acc": 0.6031746031746031,
+        "step_acc": 0.42857142857142855,
+        "time": 511.54947113990784
+    },
+    "gpt-5.6-sol_algo_vanilla": {
+        "agent_acc": 0.14285714285714285,
+        "step_acc": 0.047619047619047616,
+        "time": 485.60328483581543
+    },
+    "gpt-5.6-sol_algo_with_step": {
+        "agent_acc": 0.6190476190476191,
+        "step_acc": 0.5079365079365079,
+        "time": 308.8856122493744
+    },
+    "gpt-5.6-sol_craft_sequential": {
+        "agent_acc": 0.5,
+        "step_acc": 0.25,
+        "time": 234.5586097240448
+    },
+    "gpt-5.6-sol_craft_vanilla": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.0,
+        "time": 281.67031931877136
+    },
+    "gpt-5.6-sol_craft_with_step": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.25,
+        "time": 164.3558075428009
+    },
+    "gpt-5.6-terra_algo_sequential": {
+        "agent_acc": 0.6984126984126984,
+        "step_acc": 0.5238095238095238,
+        "time": 678.468076467514
+    },
+    "gpt-5.6-terra_algo_vanilla": {
+        "agent_acc": 0.19047619047619047,
+        "step_acc": 0.031746031746031744,
+        "time": 492.7600796222687
+    },
+    "gpt-5.6-terra_algo_with_step": {
+        "agent_acc": 0.6507936507936508,
+        "step_acc": 0.5238095238095238,
+        "time": 395.05625343322754
+    },
+    "gpt-5.6-terra_craft_sequential": {
+        "agent_acc": 0.4642857142857143,
+        "step_acc": 0.21428571428571427,
+        "time": 308.17518162727356
+    },
+    "gpt-5.6-terra_craft_vanilla": {
+        "agent_acc": 0.4642857142857143,
+        "step_acc": 0.07142857142857142,
+        "time": 242.27008628845215
+    },
+    "gpt-5.6-terra_craft_with_step": {
+        "agent_acc": 0.6785714285714286,
+        "step_acc": 0.35714285714285715,
+        "time": 209.4937071800232
+    }
+}

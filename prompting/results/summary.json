@@ -1,0 +1,352 @@
+{
+    "gemma1_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0007264614105224609
+    },
+    "gemma1_algo_sequential": {
+        "agent_acc": 0.23809523809523808,
+        "step_acc": 0.09523809523809523,
+        "time": 62.44848084449768
+    },
+    "gemma1_algo_step_by_step": {
+        "agent_acc": 0.42857142857142855,
+        "step_acc": 0.1746031746031746,
+        "time": 29.34268307685852
+    },
+    "gemma1_algo_vanilla": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.14285714285714285,
+        "time": 45.970004081726074
+    },
+    "gemma1_algo_with_step": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.09523809523809523,
+        "time": 55.62129807472229
+    },
+    "gemma1_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0006453990936279297
+    },
+    "gemma1_craft_sequential": {
+        "agent_acc": 0.07142857142857142,
+        "step_acc": 0.03571428571428571,
+        "time": 66.42398881912231
+    },
+    "gemma1_craft_step_by_step": {
+        "agent_acc": 0.32142857142857145,
+        "step_acc": 0.03571428571428571,
+        "time": 101.30287909507751
+    },
+    "gemma1_craft_vanilla": {
+        "agent_acc": 0.32142857142857145,
+        "step_acc": 0.03571428571428571,
+        "time": 59.948593616485596
+    },
+    "gemma1_craft_with_step": {
+        "agent_acc": 0.32142857142857145,
+        "step_acc": 0.03571428571428571,
+        "time": 86.5503613948822
+    },
+    "gemma4_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0006823539733886719
+    },
+    "gemma4_algo_sequential": {
+        "agent_acc": 0.6031746031746031,
+        "step_acc": 0.1111111111111111,
+        "time": 138.25988864898682
+    },
+    "gemma4_algo_step_by_step": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 141.83246684074402
+    },
+    "gemma4_algo_vanilla": {
+        "agent_acc": 0.30158730158730157,
+        "step_acc": 0.1111111111111111,
+        "time": 70.45184206962585
+    },
+    "gemma4_algo_with_step": {
+        "agent_acc": 0.2698412698412698,
+        "step_acc": 0.07936507936507936,
+        "time": 69.33363151550293
+    },
+    "gemma4_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0005729198455810547
+    },
+    "gemma4_craft_sequential": {
+        "agent_acc": 0.5,
+        "step_acc": 0.03571428571428571,
+        "time": 235.37939429283142
+    },
+    "gemma4_craft_step_by_step": {
+        "agent_acc": 0.35714285714285715,
+        "step_acc": 0.07142857142857142,
+        "time": 68.72100138664246
+    },
+    "gemma4_craft_vanilla": {
+        "agent_acc": 0.42857142857142855,
+        "step_acc": 0.03571428571428571,
+        "time": 180.99119067192078
+    },
+    "gemma4_craft_with_step": {
+        "agent_acc": 0.6071428571428571,
+        "step_acc": 0.07142857142857142,
+        "time": 185.1152572631836
+    },
+    "llama1_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0006349086761474609
+    },
+    "llama1_algo_sequential": {
+        "agent_acc": 0.30158730158730157,
+        "step_acc": 0.1746031746031746,
+        "time": 30.877211093902588
+    },
+    "llama1_algo_step_by_step": {
+        "agent_acc": 0.42857142857142855,
+        "step_acc": 0.2857142857142857,
+        "time": 15.66269040107727
+    },
+    "llama1_algo_vanilla": {
+        "agent_acc": 0.25396825396825395,
+        "step_acc": 0.20634920634920634,
+        "time": 13.90962839126587
+    },
+    "llama1_algo_with_step": {
+        "agent_acc": 0.23809523809523808,
+        "step_acc": 0.15873015873015872,
+        "time": 14.19448447227478
+    },
+    "llama1_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0006182193756103516
+    },
+    "llama1_craft_sequential": {
+        "agent_acc": 0.14285714285714285,
+        "step_acc": 0.0,
+        "time": 34.373260498046875
+    },
+    "llama1_craft_step_by_step": {
+        "agent_acc": 0.39285714285714285,
+        "step_acc": 0.07142857142857142,
+        "time": 14.30456256866455
+    },
+    "llama1_craft_vanilla": {
+        "agent_acc": 0.21428571428571427,
+        "step_acc": 0.03571428571428571,
+        "time": 29.04632830619812
+    },
+    "llama1_craft_with_step": {
+        "agent_acc": 0.17857142857142858,
+        "step_acc": 0.03571428571428571,
+        "time": 28.919469594955444
+    },
+    "llama3_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0010313987731933594
+    },
+    "llama3_algo_sequential": {
+        "agent_acc": 0.5079365079365079,
+        "step_acc": 0.12698412698412698,
+        "time": 68.81774139404297
+    },
+    "llama3_algo_step_by_step": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.15873015873015872,
+        "time": 79.82088589668274
+    },
+    "llama3_algo_vanilla": {
+        "agent_acc": 0.38095238095238093,
+        "step_acc": 0.2222222222222222,
+        "time": 31.207942724227905
+    },
+    "llama3_algo_with_step": {
+        "agent_acc": 0.30158730158730157,
+        "step_acc": 0.1746031746031746,
+        "time": 32.3769371509552
+    },
+    "llama3_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0006475448608398438
+    },
+    "llama3_craft_sequential": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 84.31966519355774
+    },
+    "llama3_craft_step_by_step": {
+        "agent_acc": 0.25,
+        "step_acc": 0.07142857142857142,
+        "time": 175.98443865776062
+    },
+    "llama3_craft_vanilla": {
+        "agent_acc": 0.17857142857142858,
+        "step_acc": 0.0,
+        "time": 63.3844792842865
+    },
+    "llama3_craft_with_step": {
+        "agent_acc": 0.25,
+        "step_acc": 0.07142857142857142,
+        "time": 63.831193923950195
+    },
+    "qwen0.5_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.001176595687866211
+    },
+    "qwen0.5_algo_sequential": {
+        "agent_acc": 0.47619047619047616,
+        "step_acc": 0.14285714285714285,
+        "time": 27.02235221862793
+    },
+    "qwen0.5_algo_step_by_step": {
+        "agent_acc": 0.5873015873015873,
+        "step_acc": 0.23809523809523808,
+        "time": 4.968388557434082
+    },
+    "qwen0.5_algo_vanilla": {
+        "agent_acc": 0.3492063492063492,
+        "step_acc": 0.23809523809523808,
+        "time": 11.228278160095215
+    },
+    "qwen0.5_algo_with_step": {
+        "agent_acc": 0.4126984126984127,
+        "step_acc": 0.2222222222222222,
+        "time": 11.983729124069214
+    },
+    "qwen0.5_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.00061798095703125
+    },
+    "qwen0.5_craft_sequential": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.07142857142857142,
+        "time": 26.63544535636902
+    },
+    "qwen0.5_craft_step_by_step": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.03571428571428571,
+        "time": 2.6732497215270996
+    },
+    "qwen0.5_craft_vanilla": {
+        "agent_acc": 0.39285714285714285,
+        "step_acc": 0.10714285714285714,
+        "time": 16.766703605651855
+    },
+    "qwen0.5_craft_with_step": {
+        "agent_acc": 0.39285714285714285,
+        "step_acc": 0.07142857142857142,
+        "time": 16.775651693344116
+    },
+    "qwen1.5_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0010800361633300781
+    },
+    "qwen1.5_algo_sequential": {
+        "agent_acc": 0.5079365079365079,
+        "step_acc": 0.06349206349206349,
+        "time": 45.50790190696716
+    },
+    "qwen1.5_algo_step_by_step": {
+        "agent_acc": 0.42857142857142855,
+        "step_acc": 0.15873015873015872,
+        "time": 17.855762720108032
+    },
+    "qwen1.5_algo_vanilla": {
+        "agent_acc": 0.30158730158730157,
+        "step_acc": 0.20634920634920634,
+        "time": 20.502372980117798
+    },
+    "qwen1.5_algo_with_step": {
+        "agent_acc": 0.3333333333333333,
+        "step_acc": 0.07936507936507936,
+        "time": 20.43195104598999
+    },
+    "qwen1.5_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0006604194641113281
+    },
+    "qwen1.5_craft_sequential": {
+        "agent_acc": 0.39285714285714285,
+        "step_acc": 0.17857142857142858,
+        "time": 46.435264587402344
+    },
+    "qwen1.5_craft_step_by_step": {
+        "agent_acc": 0.17857142857142858,
+        "step_acc": 0.03571428571428571,
+        "time": 7.1457741260528564
+    },
+    "qwen1.5_craft_vanilla": {
+        "agent_acc": 0.32142857142857145,
+        "step_acc": 0.03571428571428571,
+        "time": 34.00728487968445
+    },
+    "qwen1.5_craft_with_step": {
+        "agent_acc": 0.4642857142857143,
+        "step_acc": 0.10714285714285714,
+        "time": 33.841036796569824
+    },
+    "qwen7_algo_random": {
+        "agent_acc": 0.2222222222222222,
+        "step_acc": 0.07936507936507936,
+        "time": 0.0007021427154541016
+    },
+    "qwen7_algo_sequential": {
+        "agent_acc": 0.3968253968253968,
+        "step_acc": 0.14285714285714285,
+        "time": 121.62109684944153
+    },
+    "qwen7_algo_step_by_step": {
+        "agent_acc": 0.12698412698412698,
+        "step_acc": 0.06349206349206349,
+        "time": 191.51978015899658
+    },
+    "qwen7_algo_vanilla": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.1111111111111111,
+        "time": 58.17653679847717
+    },
+    "qwen7_algo_with_step": {
+        "agent_acc": 0.30158730158730157,
+        "step_acc": 0.12698412698412698,
+        "time": 57.773581981658936
+    },
+    "qwen7_craft_random": {
+        "agent_acc": 0.5714285714285714,
+        "step_acc": 0.07142857142857142,
+        "time": 0.0006852149963378906
+    },
+    "qwen7_craft_sequential": {
+        "agent_acc": 0.6428571428571429,
+        "step_acc": 0.07142857142857142,
+        "time": 137.4117419719696
+    },
+    "qwen7_craft_step_by_step": {
+        "agent_acc": 0.14285714285714285,
+        "step_acc": 0.0,
+        "time": 499.6781165599823
+    },
+    "qwen7_craft_vanilla": {
+        "agent_acc": 0.2857142857142857,
+        "step_acc": 0.0,
+        "time": 99.09056305885315
+    },
+    "qwen7_craft_with_step": {
+        "agent_acc": 0.4642857142857143,
+        "step_acc": 0.0,
+        "time": 100.00311136245728
+    }
+}
